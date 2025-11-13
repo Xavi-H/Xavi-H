@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer Student
 ---------------------
 
-Currently studying 1st year of DAW at the Institut Tecnològic de Barcelona (ITB) — a reference center for technological vocational and educational training in Spain.
+Currently studying 1st year of DAW at the Institut Tecnològic de Barcelona (ITB) — a reference center for technological vocational education and training in Spain.
 
 ### Skills
 <p align="left">
