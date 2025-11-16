@@ -14,7 +14,9 @@ Currently studying 1st year of DAW at the Institut Tecnològic de Barcelona (ITB
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Xavi-H"><img src="https://github-readme-stats.vercel.app/api?username=Xavi-H&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Xavi-H's GitHub stats" /></a>
+<a href="http://www.github.com/Xavi-H"><img src="https://github-readme-stats.vercel.app/api?username=Xavi-H&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Xavi-H's GitHub stats" /></a>
+
+<a href="https://github.com/Xavi-H" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavi-H&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 ### Socials
